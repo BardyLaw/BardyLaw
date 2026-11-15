@@ -1,4 +1,4 @@
-### Hi, I'm Braden 👋
+### Hi, I'm Brady 👋
 
 I build and self-host AI and automation systems on my own hardware, and I'm looking for my first role in **AI infrastructure, networking, or IT support** (Denver, CO or remote).
 
